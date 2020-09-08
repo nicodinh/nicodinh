@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Scrum, BDD, ATTD, TDD, Clean Architecture, Mob Programming
+Scrum, BDD, ATTD, TDD, Clean Architecture, Mob Programming, Functional Programming
