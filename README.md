@@ -2,4 +2,5 @@
 
 Scrum, BDD, DDD, ATTD, TDD, Clean Architecture, Mob Programming, <3 Functional Programming <3
 Healthcare, IoT, FHIR  
-JavaScript, TypeScript ^^' , oop, design pattern
+JavaScript, TypeScript ^^' , oop, design pattern  
+React, nodejs, GraphQL, Hasura, GCP, react native...
