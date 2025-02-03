@@ -18,7 +18,7 @@ Un véritable ninja dispose d'outils essentiels :
 - IDE personnalisé avec des thèmes sombres
 - Collection de scripts d'automatisation
 - Setup multi-écrans optimisé
-- Mécanique keyboard QWERTY avec switches Cherry MX
+- Mécanique keyboard QWERTY avec switches Cherry MX (En vrai le clavier du serveur DELL est mieux)
 
 ## Mode de Vie
 
