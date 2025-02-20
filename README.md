@@ -1,6 +1,6 @@
 # Senior Software Developer | Geek | Ninja | 🚀
 
-TLDR : TypeScript / Node.js / React / Next.js / NestJS / Fastify
+TLDR : TypeScript / Node.js / React / Next.js / NestJS / Fastify / SEO / SEA / SMO / SEM
 
 Un développeur geek ninja n'est pas qu'un simple programmeur - c'est un artisan du code qui maîtrise l'art du développement avec style et efficacité.
 
