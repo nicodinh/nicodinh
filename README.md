@@ -1,4 +1,4 @@
-# Senior Software Developer | Geek | Ninja | 🚀
+# Senior Software Developer | SEM | Geek | Ninja | 🚀
 
 **TLDR** : TypeScript / Node.js / React / Next.js / NestJS / Fastify / SEO / SEA / SMO / SEM
 
