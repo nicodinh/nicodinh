@@ -1,5 +1,5 @@
 # Senior Software Developer | SEM | Geek | Ninja | 🚀
-Push poorly written test can down the road another ten years
+> Push poorly written test can down the road another ten years
 
 **TLDR** : TypeScript / Node.js / React / Next.js / NestJS / Fastify / Dart / Flutter / SEO / SEA / SMO / SEM
 
