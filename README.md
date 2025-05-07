@@ -1,7 +1,7 @@
 # Senior Software Developer | SEM | Geek | Ninja | 🚀
 > Push poorly written test can down the road another ten years
 
-**TLDR** : TypeScript / Node.js / React / Next.js / NestJS / Fastify / Dart / Flutter / SEO / SEA / SMO / SEM
+**TLDR** : TypeScript / Node.js / React / Next.js / NestJS / Fastify / Go / Dart / Flutter / SEO / SEA / SMO / SEM
 
 Un développeur geek ninja n'est pas qu'un simple programmeur - c'est un artisan du code qui maîtrise l'art du développement avec style et efficacité.
 
